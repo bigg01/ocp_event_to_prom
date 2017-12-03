@@ -7,12 +7,6 @@ import (
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/rest"
 	"k8s.io/client-go/tools/clientcmd"
-	//"golang.org/x/tools/go/gcimporter15/testdata"
-	//"golang.org/x/tools/go/gcimporter15/testdata"
-	//"golang.org/x/tools/go/gcimporter15/testdata"
-	//"golang.org/x/tools/go/gcimporter15/testdata"
-	//"golang.org/x/tools/go/gcimporter15/testdata"
-	//"golang.org/x/tools/go/gcimporter15/testdata"
 )
 
 //https://github.com/kubernetes/client-go/blob/master/examples/out-of-cluster-client-configuration/main.go
